@@ -84,7 +84,7 @@
                 <version>2.2</version>
                 <configuration>
                         <server>tomcat7</server>
-                        <path>/OnlineBanking</path> 
+                        <path>/RetailWebapp</path> 
                 </configuration>
                 </plugin>
                 </plugins>
